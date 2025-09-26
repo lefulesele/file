@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Espresso",
+        "description": "Strong black coffee",
+        "category": "Beverages",
+        "price": 3.50,
+        "quantity": 42,
+        "status": "In Stock"
+      },
+      {
+        "id": 2,
+        "name": "Cappuccino",
+        "description": "Coffee with steamed milk",
+        "category": "Beverages",
+        "price": 4.25,
+        "quantity": 8,
+        "status": "Low Stock"
+      },
+      {
+        "id": 3,
+        "name": "Blueberry Muffin",
+        "description": "Fresh baked muffin with blueberries",
+        "category": "Bakery",
+        "price": 2.75,
+        "quantity": 5,
+        "status": "Low Stock"
+      },
+      {
+        "id": 4,
+        "name": "Chocolate Cake",
+        "description": "Rich chocolate cake",
+        "category": "Desserts",
+        "price": 5.50,
+        "quantity": 15,
+        "status": "In Stock"
+      },
+      {
+        "id": 5,
+        "name": "Turkey Sandwich",
+        "description": "Sandwich with turkey and vegetables",
+        "category": "Sandwiches",
+        "price": 8.75,
+        "quantity": 12,
+        "status": "In Stock"
+      },
+      {
+        "id": 6,
+        "name": "Caesar Salad",
+        "description": "Fresh salad with Caesar dressing",
+        "category": "Salads",
+        "price": 7.50,
+        "quantity": 9,
+        "status": "Low Stock"
+      },
+      {
+        "id": 7,
+        "name": "Iced Tea",
+        "description": "Refreshing iced tea",
+        "category": "Beverages",
+        "price": 3.00,
+        "quantity": 25,
+        "status": "In Stock"
+      },
+      {
+        "id": 8,
+        "name": "Cheesecake",
+        "description": "Creamy cheesecake with berry sauce",
+        "category": "Desserts",
+        "price": 6.25,
+        "quantity": 7,
+        "status": "Low Stock"
+      }
+    ]
+  }
